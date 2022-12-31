@@ -12,3 +12,14 @@ A dropdown component made using react.
 - The dropdown component receive the items array to display the items in the list. Increase the array size to show more options.
 - On click of an option in dropdown list, close the dropdown.
 - On click of outside dropdown, close the dropdown.
+
+## Deployment
+
+To deploy this project run
+
+```bash
+npm run deploy
+```
+Hosted on
+
+https://ishaan-gupta-developer.github.io/react-dropdown/
