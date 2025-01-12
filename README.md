@@ -22,4 +22,4 @@ npm run deploy
 ```
 Hosted on
 
-https://ishaan-gupta-developer.github.io/react-dropdown/
+https://ishaan-gupta-dev.github.io/react-dropdown/
